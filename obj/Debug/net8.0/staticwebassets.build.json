@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wYSJd4CI4KZ6O+szrATk8m008oiSKHGrHyfWYsBfwVs=",
+  "Source": "faturamentoClienteDotnet",
+  "BasePath": "_content/faturamentoClienteDotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

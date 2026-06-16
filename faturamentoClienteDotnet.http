@@ -1,0 +1,6 @@
+@faturamentoClienteDotnet_HostAddress = http://localhost:5076
+
+GET {{faturamentoClienteDotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
